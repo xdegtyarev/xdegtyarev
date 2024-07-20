@@ -23,7 +23,7 @@ My name is Alexander Degtyarev. I’ve been in the industry for 13+ years, mostl
 
 ---
 
-[**Unity Technologies**](https://unity.com/) - Senior Software Developer / Consultant
+[**Unity Technologies**](https://unity.com/) - Staff Software Developer / Consultant
 
 *12.2020 - Present*
 
